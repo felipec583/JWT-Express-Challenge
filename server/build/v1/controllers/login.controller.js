@@ -15,9 +15,10 @@ const handleLogin = (req, res, next) => __awaiter(void 0, void 0, void 0, functi
         const { email, password } = req.body;
         yield checkCredentials({ email, password });
         const accessToken = jwt.sign({ email }, SECRET_KEY, {
-            expiresIn: "30min",
+            expiresIn: "1h",
         });
-        res.status(200).send({ accessToken });
+        console.log("token:", accessToken);
+        res.status(200).send({ token: accessToken });
     }
     catch (error) {
         next(error);

@@ -3,12 +3,18 @@ import pool from "../config/database.js";
 import bcrypt from "bcrypt";
 import format from "pg-format";
 import { createNewError } from "../helpers/error.js";
+
 const getAll = async () => {
-  const sqlQuery = {
-    text: "SELECT id, email, rol, lenguaje FROM usuarios",
-  };
-  const users = await pool.query(sqlQuery);
-  return users.rows;
+  try {
+    const sqlQuery = {
+      text: "SELECT id, email, rol, lenguaje FROM usuarios",
+    };
+    const users = await pool.query(sqlQuery);
+
+    return users.rows;
+  } catch (error: any) {
+    console.log(error);
+  }
 };
 
 const getOneBy = async (identifier: string, value: string) => {
@@ -42,9 +48,7 @@ const checkCredentials = async ({ email, password }: Credentials) => {
     values: [email],
   };
   const query = await pool.query(sqlQuery);
-  const { rowCount, rows } = query;
-  if (!passwordComparison || !query)
-    throw new Error("Email o contraseña invalidos");
+  if (!passwordComparison || !query.rowCount) throw createNewError("auth_1");
 };
 
 export { getAll, getOneBy, create, checkCredentials };

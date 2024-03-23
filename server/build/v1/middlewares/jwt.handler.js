@@ -18,13 +18,17 @@ const verifyJWT = (req, res, next) => __awaiter(void 0, void 0, void 0, function
             return result;
         }
         const { authHeader } = result;
-        const token = authHeader.split("Bearer ")[1];
+        const token = authHeader.split(" ")[1];
+        console.log("verify:", authHeader.split(" "));
+        if (!token)
+            throw createNewError("", 401, "There is no token");
         const decodedToken = jwt.verify(token, SECRET_KEY);
         req.email = decodedToken.email;
         console.log(decodedToken.email, decodedToken);
         next();
     }
     catch (error) {
+        console.log(error.message);
         next(error);
     }
 });

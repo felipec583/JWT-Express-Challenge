@@ -13,12 +13,15 @@ const verifyJWT: ControllerType = async (req, res, next) => {
       return result;
     }
     const { authHeader } = result as { authHeader: string };
-    const token = authHeader.split("Bearer ")[1];
+    const token = authHeader.split(" ")[1];
+    console.log("verify:", authHeader.split(" "));
+    if (!token) throw createNewError("", 401, "There is no token");
     const decodedToken = jwt.verify(token, SECRET_KEY);
     (req as CustomReq).email = (decodedToken as any).email;
     console.log((decodedToken as any).email, decodedToken);
     next();
   } catch (error: any) {
+    console.log(error.message);
     next(error);
   }
 };

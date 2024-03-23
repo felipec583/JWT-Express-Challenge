@@ -13,7 +13,7 @@ const getAll = (req, res, next) => __awaiter(void 0, void 0, void 0, function* (
         const users = yield userModel.getAll();
         if (!users)
             return res.status(204).send({ "No users": users });
-        res.status(200).json(users);
+        return res.status(200).json(users);
     }
     catch (error) {
         next(error);

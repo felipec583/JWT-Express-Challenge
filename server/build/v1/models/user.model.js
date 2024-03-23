@@ -12,11 +12,16 @@ import bcrypt from "bcrypt";
 import format from "pg-format";
 import { createNewError } from "../helpers/error.js";
 const getAll = () => __awaiter(void 0, void 0, void 0, function* () {
-    const sqlQuery = {
-        text: "SELECT id, email, rol, lenguaje FROM usuarios",
-    };
-    const users = yield pool.query(sqlQuery);
-    return users.rows;
+    try {
+        const sqlQuery = {
+            text: "SELECT id, email, rol, lenguaje FROM usuarios",
+        };
+        const users = yield pool.query(sqlQuery);
+        return users.rows;
+    }
+    catch (error) {
+        console.log(error);
+    }
 });
 const getOneBy = (identifier, value) => __awaiter(void 0, void 0, void 0, function* () {
     const sqlQuery = {
@@ -48,9 +53,8 @@ const checkCredentials = ({ email, password }) => __awaiter(void 0, void 0, void
         values: [email],
     };
     const query = yield pool.query(sqlQuery);
-    const { rowCount, rows } = query;
-    if (!passwordComparison || !query)
-        throw new Error("Email o contraseña invalidos");
+    if (!passwordComparison || !query.rowCount)
+        throw createNewError("auth_1");
 });
 export { getAll, getOneBy, create, checkCredentials };
 //# sourceMappingURL=user.model.js.map

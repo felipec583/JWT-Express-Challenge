@@ -5,7 +5,7 @@ const getAll: ControllerType = async (req, res, next) => {
   try {
     const users = await userModel.getAll();
     if (!users) return res.status(204).send({ "No users": users });
-    res.status(200).json(users);
+    return res.status(200).json(users);
   } catch (error) {
     next(error);
   }

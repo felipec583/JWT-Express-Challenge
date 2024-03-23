@@ -3,7 +3,9 @@ const errorHandler = (error, req, res, next) => {
     if (error instanceof GlobalError) {
         return res.status(error.statusCode).send(error.message);
     }
-    next();
+    else {
+        return res.status(401).send(error.message);
+    }
 };
 export default errorHandler;
 //# sourceMappingURL=error.handler.js.map
