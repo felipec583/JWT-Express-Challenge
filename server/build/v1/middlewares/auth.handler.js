@@ -22,18 +22,34 @@ const loginFormValidator = (req, res, next) => __awaiter(void 0, void 0, void 0,
 const registrationFormValidator = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const user = req.body;
-        const keys = ["email", "password", "rol", "lenguaje"];
-        const userKeyCheck = Object.keys(user).every((key) => keys.includes(key));
-        const userLength = Object.keys(user).length;
-        const userValuesCheck = Object.values(user).every((value) => value);
-        if (!(userKeyCheck && keys.length === userLength && userValuesCheck)) {
-            throw createNewError("auth_5");
+        if (isEmpty(user))
+            throw createNewError("", 400, "You must enter the data");
+        if (isValidUser(user)) {
+            next();
         }
-        next();
+        throw createNewError("auth_5");
     }
     catch (error) {
         next(error);
     }
 });
+function isEmpty(user) {
+    const userKeys = Object.keys(user);
+    return userKeys.length === 0;
+}
+function isValidUser(user) {
+    const requiredFields = ["email", "password", "rol", "lenguaje"];
+    const userKeys = Object.keys(user);
+    if (userKeys.length !== requiredFields.length) {
+        return false;
+    }
+    for (const key of userKeys) {
+        if (!requiredFields.includes(key))
+            return false;
+        if (!user[key])
+            return false;
+    }
+    return true;
+}
 export { registrationFormValidator, loginFormValidator };
 //# sourceMappingURL=auth.handler.js.map

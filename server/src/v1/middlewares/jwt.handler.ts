@@ -1,4 +1,4 @@
-import { ControllerType, CustomReq, customJwtPayload } from "../types/types";
+import { ControllerType, CustomReq } from "../types/types";
 import { Request, Response } from "express";
 import { SECRET_KEY } from "../config/keys.js";
 import { ServerResponse } from "http";
@@ -14,11 +14,10 @@ const verifyJWT: ControllerType = async (req, res, next) => {
     }
     const { authHeader } = result as { authHeader: string };
     const token = authHeader.split(" ")[1];
-    console.log("verify:", authHeader.split(" "));
     if (!token) throw createNewError("", 401, "There is no token");
+    
     const decodedToken = jwt.verify(token, SECRET_KEY);
     (req as CustomReq).email = (decodedToken as any).email;
-    console.log((decodedToken as any).email, decodedToken);
     next();
   } catch (error: any) {
     console.log(error.message);
