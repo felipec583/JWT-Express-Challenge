@@ -24,10 +24,10 @@ const registrationFormValidator = (req, res, next) => __awaiter(void 0, void 0, 
         const user = req.body;
         if (isEmpty(user))
             throw createNewError("", 400, "You must enter the data");
-        if (isValidUser(user)) {
-            next();
+        if (!isValidUser(user)) {
+            throw createNewError("auth_5");
         }
-        throw createNewError("auth_5");
+        next();
     }
     catch (error) {
         next(error);
@@ -44,10 +44,12 @@ function isValidUser(user) {
         return false;
     }
     for (const key of userKeys) {
-        if (!requiredFields.includes(key))
+        if (!requiredFields.includes(key)) {
             return false;
-        if (!user[key])
+        }
+        if (!user[key]) {
             return false;
+        }
     }
     return true;
 }

@@ -17,10 +17,10 @@ const registrationFormValidator: ControllerType = async (req, res, next) => {
 
     if (isEmpty(user)) throw createNewError("", 400, "You must enter the data");
 
-    if (isValidUser(user)) {
-      next();
+    if (!isValidUser(user)) {
+      throw createNewError("auth_5");
     }
-    throw createNewError("auth_5");
+    next();
   } catch (error) {
     next(error);
   }
@@ -40,9 +40,13 @@ function isValidUser(user: User) {
   }
 
   for (const key of userKeys) {
-    if (!requiredFields.includes(key)) return false;
+    if (!requiredFields.includes(key)) {
+      return false;
+    }
 
-    if (!user[key as keyof User]) return false;
+    if (!user[key as keyof User]) {
+      return false;
+    }
   }
 
   return true;

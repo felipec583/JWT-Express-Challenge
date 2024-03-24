@@ -17,7 +17,6 @@ const handleLogin = (req, res, next) => __awaiter(void 0, void 0, void 0, functi
         const accessToken = jwt.sign({ email }, SECRET_KEY, {
             expiresIn: "1h",
         });
-        console.log("token:", accessToken);
         res.status(200).send({ token: accessToken });
     }
     catch (error) {

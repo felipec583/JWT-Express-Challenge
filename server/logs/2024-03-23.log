@@ -424,3 +424,95 @@ Completed: 400 message:  Time response: 7 ms Request ID: [71326d37-5a45-4a99-928
 Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:25:49 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"email":"abu"}
 Completed: 400 message:  Time response: 3 ms Request ID: [b17aa009-2b8e-4729-a9e5-f0babbb72454]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:30:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 109 ms Request ID: [0e41c5c6-de7c-467a-b8fc-fbf2f500bf0e]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:30:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [492060d0-2eeb-4080-9f44-f5615b0cc472]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:30:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [740fb2c2-fe9b-426b-95dd-1940fc9f056a]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:31:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"cr7@cr7.pr","password":"12345","rol":"Backend Developer","lenguaje":"Ruby"}
+Completed: 400 message:  Time response: 15 ms Request ID: [eb66a58c-e930-4c5f-a462-d614940ffe96]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:31:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"cr7@cr7.pr","password":"12345","rol":"Backend Developer","lenguaje":"Ruby"}
+Completed: 400 message:  Time response: 2 ms Request ID: [284790dc-8714-4226-b728-62c6ab229325]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:32:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"cr9@cr7.pr","password":"12345","rol":"Backend Developer","lenguaje":"Ruby"}
+Completed: 400 message:  Time response: 7 ms Request ID: [27d6f7e8-2d2b-40d6-960f-5e84dd74d251]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:34:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"cr1@cr7.pr","password":"12345","rol":"Backend Developer","lenguaje":"Ruby"}
+Completed: 400 message:  Time response: 7 ms Request ID: [4b116eef-ecb8-4488-a725-3606713b09a7]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:34:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"cr2@cr7.pr","password":"12345","rol":"Backend Developer","lenguaje":"Ruby"}
+Completed: 200 message:  Time response: 113 ms Request ID: [7042c80c-eb55-43c2-b6a9-a9f76a64c1e3]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:36:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abuworld@a.cl","password":"123","rol":"Frontend Developer","lenguaje":"Python"}
+Completed: 200 message:  Time response: 98 ms Request ID: [3e098571-ae8b-4ebd-9712-fdec5648cdce]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:36:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"adl@adl.com","password":"12","rol":"Frontend Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 122 ms Request ID: [e9496580-6694-4cc1-8a05-29b1197f777c]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:37:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"adl@adl.com","password":"12","rol":"Frontend Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 87 ms Request ID: [64f08899-637d-4a05-a87e-d883299e6886]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:37:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"adl@adl.com","password":"123","rol":"Frontend Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 99 ms Request ID: [c2595c90-c0f5-4571-829d-2640547c023a]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:37:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@abu.cl","password":"12","rol":"Full Stack Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 89 ms Request ID: [820cad5f-1c9e-4d67-8c76-c0bf1f3de623]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:38:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@abu.cl","password":"12","rol":"Full Stack Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 97 ms Request ID: [e1d96c3a-7e47-4b4b-aa6b-c1984f0b44f1]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:38:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@abu.cl","password":"12345","rol":"Full Stack Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 87 ms Request ID: [5a3a9ffc-3581-4453-b6fd-6bbbb0211b5a]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:38:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@abu.cl","password":"12345","rol":"Full Stack Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 94 ms Request ID: [9219ac61-297f-4a30-9eec-25f29cd9c428]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:38:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@abu.cl","password":"12345","rol":"Full Stack Developer","lenguaje":"Ruby"}
+Completed: 200 message:  Time response: 100 ms Request ID: [26c4b4a3-e9fc-43f4-85a0-953cdd561393]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:39:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"123@abu.cl","password":"123","rol":"Frontend Developer","lenguaje":"Python"}
+Completed: 200 message:  Time response: 95 ms Request ID: [386f329a-df4b-40bf-9961-b31c905d96ed]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abugol@abu.com","password":"12345","rol":"Backend Developer","lenguaje":"Seleccione un Lenguage"}
+Completed: 400 message:  Time response: 108 ms Request ID: [1e2a198c-27cd-4912-b807-b5152cd04e7c]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:39:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abugol@abu.com","password":"12345","rol":"Backend Developer","lenguaje":"Python"}
+Completed: 200 message:  Time response: 100 ms Request ID: [42193f03-5b09-4e3c-85c2-929f73241681]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:41:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"bb@bb.cl","password":"123456","rol":"Frontend Developer","lenguaje":"Python"}
+Completed: 200 message:  Time response: 101 ms Request ID: [d919450d-1725-4e24-9693-4a7a9e3d28a9]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:41:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abugolgol@gol.com","password":"123456","rol":"Full Stack Developer","lenguaje":"Python"}
+Completed: 200 message:  Time response: 98 ms Request ID: [03f6718a-18b9-41ea-9da1-809c9f7a514d]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 12:43:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@a.cl","password":"123","rol":"Full Stack Developer","lenguaje":"Ruby"}
+Completed: 200 message:  Time response: 101 ms Request ID: [00542d38-262d-4ba9-bbe4-a5bb663a3ed8]

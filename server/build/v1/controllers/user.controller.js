@@ -31,7 +31,6 @@ const create = (req, res, next) => __awaiter(void 0, void 0, void 0, function* (
     try {
         const user = req.body;
         const newUser = yield userModel.create(user);
-        console.log(newUser);
         res.status(200).send({ "New user": `${newUser.email}` });
     }
     catch (error) {

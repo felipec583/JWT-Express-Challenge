@@ -22,7 +22,7 @@ const create: ControllerType = async (req, res, next) => {
   try {
     const user: User = req.body as User;
     const newUser = await userModel.create(user);
-    console.log(newUser);
+
     res.status(200).send({ "New user": `${newUser.email}` });
   } catch (error) {
     next(error);
