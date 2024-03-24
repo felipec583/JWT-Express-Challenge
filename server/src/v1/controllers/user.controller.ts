@@ -1,5 +1,6 @@
 import { ControllerType, User } from "../types/types";
 import * as userModel from "../models/user.model.js";
+import { createNewError } from "../helpers/error.js";
 
 const getAll: ControllerType = async (req, res, next) => {
   try {
@@ -11,9 +12,12 @@ const getAll: ControllerType = async (req, res, next) => {
   }
 };
 
-const getOne: ControllerType = (req, res, next) => {
+const getOne: ControllerType = async (req, res, next) => {
   try {
     const { id } = req.params;
+    if (!id) throw createNewError("", 404, "You must provide an id");
+    const user = await userModel.getOneBy("id", id);
+    res.status(200).json({ User: user });
   } catch (error) {
     next(error);
   }

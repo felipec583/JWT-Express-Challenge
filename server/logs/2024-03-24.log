@@ -1,0 +1,3126 @@
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:07:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 12 ms Request ID: [9456ee9f-e779-4600-881b-b00ca72278af]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:07:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:08:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [1489b973-4624-480d-a185-6aa6fb45e159]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:08:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:08:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [35fe33d2-c59d-4916-9530-097ffd6766c2]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:08:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [248c46a4-eb5c-4cdf-8ffb-740262445404]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:08:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [84b4768d-c78d-4429-8d1f-4705d1d50f75]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:09:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [13cf6b49-87c8-49dd-98e3-c3ceb772c2cd]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:09:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 3 ms Request ID: [afaa3b24-47b3-4e17-b665-e5e971590269]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:09:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [ce647b7c-3f75-46a5-8b22-27a9c3af4083]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:09:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [38e809bd-8f09-4dad-a04d-16883056a29a]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [d4c550a1-914f-4dda-b51b-d683885c4298]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [fd9162ce-eccc-4b86-b7d3-f7f7103e3465]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [8a2ab90c-f6eb-4574-b9c5-dfc95377f73a]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [520d93bf-896d-4975-b094-e26085b99f78]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [029aa232-ad71-4a4a-be58-042f8c7be93a]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [9363d7c8-5c13-4e79-8c5a-6aaaef1d9c18]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [9f94f311-169d-4bc6-adf9-1cbc46172d7b]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:13:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [535c75af-a596-4240-a822-6c03d7f13d99]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [e4732fef-4d1a-4fb3-bd2e-f51adf3011be]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 3 ms Request ID: [eadddcb2-b8ea-47f7-98c5-071bb4a860d9]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [6b96a441-5d69-492b-a608-ad309c6a1bfd]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [59341cc0-3646-4b65-86a1-a753db274a78]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [645250f9-38d8-4168-a89e-f68214aef91c]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 3 ms Request ID: [0f367388-3b36-40f6-a679-366574588e70]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [2a8d7e8b-0bde-45db-8f7d-c03fd03161b3]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [f1176918-e7df-4626-906d-e44172aba7d8]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [35841d67-e71a-44e0-b53c-cd6ae4453322]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [b8f22818-fa11-4721-bca4-45d2b3bc2c64]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [3ff9ab18-09e6-4d1e-8239-0165061b6db5]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:15:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 3 ms Request ID: [707909fb-e3c4-4c69-83d9-36c04ffb6f7c]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [5e558201-1d6d-4c7c-8c1b-ce42aa09ac95]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 3 ms Request ID: [ec206542-f8ef-423d-9faa-bc3d5b4e995d]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [e0c4456f-07ef-443f-86bb-0e4013be9629]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [5ab5606d-f27c-481e-ab2c-6cdf909f3cdf]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [c7ff8a2f-c7ff-4952-aa96-f22ad38ac0e2]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [dfc0ece3-cf3e-40a7-b3e1-7bc3a66c5ee1]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [5f0c07bf-43e9-4212-a78c-e5bf71c6a6a8]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [5ff95e20-47ce-4db4-8953-79930c3cc3c1]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [592ff5ad-cc83-4a1e-8667-cd0e74d44a4c]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [257fa178-a137-457e-bda1-38b0b72e9ba7]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:16:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [7bfff7bc-c464-475f-ae02-e04ec719c73b]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [563b9b1c-8906-48e8-8a53-f9c97ba8474d]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [98b9dbeb-5e77-49a4-b7d3-63784d05a633]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [ddac0ce9-c0e4-4280-90f9-8f492275eca5]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [9f954b0b-3ff4-4c7d-a6be-5251f7b1d6e7]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [a8c93415-7696-47e7-b4ba-a1166d3ea58b]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [0d0ea32b-3bab-426b-82a1-9da626ff8946]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sat Mar 23 2024 23:18:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [76bef316-7bc8-474b-a3c7-f6a83890cd45]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [b9e56214-8c51-4cd7-8d42-bf3e43d88a1b]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [ce15fb65-7972-4fba-80f9-3eb8a1832039]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [ddb1854f-04e6-4ea5-8a14-f9735dcd7075]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [90fb07a7-bd44-4304-bbdd-1a582f190b53]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [75411c3c-46d1-48cd-9d9c-529d901d07b7]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [952bb223-abb8-4ee6-8445-9b4c740003ca]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [c80073e4-a3f7-47df-8453-527b32372bdb]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [236f67b6-2208-4041-aafa-f9cfc0bf43fa]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:26:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 3 ms Request ID: [4c873acc-80dd-405f-9752-37fbe41cccaa]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:27:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [615fb8e2-16a6-49f9-a01d-5ac616623934]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:27:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 4 ms Request ID: [9ad7e266-07aa-4570-bf4f-108840353a13]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 301 message:  Time response: 9 ms Request ID: [bf544ed2-0276-4601-9e31-4e0983b2264b]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [20a9b4e3-50e6-4c6b-a9a8-26ff98e6d384]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [bb32db10-f854-41f5-9516-007a96e50b16]
+
+Completed: 200 message:  Time response: 28 ms Request ID: [e2a7ebdd-679c-4d6d-8f82-ab696fbe9bd8]
+
+Completed: 200 message:  Time response: 67 ms Request ID: [ee0a2a3e-60bc-4817-bac3-ae3358483e6b]
+
+Completed: 200 message:  Time response: 132 ms Request ID: [15c9e6d3-67bf-4ade-a760-a93ed6631f53]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 11:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [c97781bd-da89-465c-8315-9d7d19703972]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 7 ms Request ID: [cc5ea84c-53b4-4170-a283-74268c25086c]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [2a079266-92d4-4500-91e8-62908146dccc]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [6c859ea7-ff34-4048-afbb-2fcf2e35cedf]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:17:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [a9ed67d8-53fb-434c-9cda-c8402aff4a2f]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [2884de51-f760-4cef-a33a-95cfbd215a4e]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [2908aec9-84a2-4356-afe1-6273714c6610]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [30094070-92cc-4d3c-b3ff-634a5afaf833]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:21:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [c4a51778-b8ed-4c31-ae7d-6082923b15a2]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:21:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:21:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:21:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:21:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [211e1f47-47e9-408c-8ecd-22caa5be0495]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [9bb29696-5c58-492f-954a-4188c4cdc33a]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [19580fa6-928b-4155-9c84-b70beb6d8a95]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [0afdb5b0-b632-4e7a-a98b-5a20698965c3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:22:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [d526df86-dd94-459a-acfb-c7d6a5c938fc]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:22:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:22:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:22:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:22:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [e294d7f4-0112-4e42-a1e8-5224bdb1e190]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [2c74b3e2-5fe9-49fb-a2f4-cee31764817e]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [e9b2e2f3-2311-4b84-ad03-4bcf6b891235]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [14915dac-1029-4c53-8375-119be01b09d0]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:22:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [748426d0-2c1a-4a02-9899-236efee35d31]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [acf26545-3410-401f-ab96-b25607bb9d6a]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [3eff817d-b370-488b-bf48-2ce22338ff0c]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [aba76b24-b56b-4016-b7af-33eb8896dadb]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [e578758d-7dfe-4ce6-bd67-e7770ed696fe]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [fd904bf1-8667-48c4-9588-5a0fc0318e8a]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [57eac7b3-7ac5-4c40-89c9-37d33cb67c8b]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [82890877-4eb6-4d20-8a98-d6f39a3f1eae]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [2f6cb8f2-9916-4481-b772-44d2266ad754]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [15f3335f-ef0b-43db-8ca8-fbe6fbb1eab0]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [e0cb7fac-0de0-4f69-b22d-2c79aee6f3f4]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [3647b596-1116-457f-8c90-6394275886e6]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [79bd0073-51ff-4f98-91f3-ea245cca93cc]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [183862e5-4bcc-4cbc-b2cd-dd7f26749ad0]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [fd0dfef2-be3e-4eaf-853d-6e349977b5d2]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:27:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 17 ms Request ID: [6d1545d7-6253-49fd-9019-0edb1073ffba]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:27:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@a.cl","password":"123456"}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:28:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu@a.cl","password":"123456"}
+Completed: 401 message:  Time response: 114 ms Request ID: [0b76ced0-82de-4170-9e50-ed58bd2a5995]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:29:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 400 message:  Time response: 3 ms Request ID: [d6cc492a-f372-4e8b-a841-a492b97d161b]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:29:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456","rol":"Backend developer","lenguaje":"Python"}
+Completed: 200 message:  Time response: 85 ms Request ID: [c226f696-7871-405f-b8be-2ef5020854f1]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:29:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 89 ms Request ID: [fb3564a9-2395-4ca4-8fd0-5e2f7481ced0]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:29:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 43 ms Request ID: [13af575c-36b9-454c-ac14-5f680275c9d4]
+
+Started GET /usuarios/286 for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:30:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 28 ms Request ID: [d9fa038c-118b-4b37-b3b3-6943401c88a1]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:30:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [f13e39c1-60b2-44bd-94ed-5f76dd965a27]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [c7d44049-e14b-4da1-9003-464dc1dfd4ef]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [90f84276-12a1-4b66-bc5c-cb69bcdf7e2b]
+
+Completed: 304 message:  Time response: 12 ms Request ID: [24e335f9-de60-4c6b-88be-713a56260b22]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [5317fa8a-0fd5-4049-93a7-5cdc9f394d35]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [134fd2db-4a1c-4373-9945-323afe6aa08d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [61162ff9-8dd2-4a08-a6b9-46e2799da75c]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:31:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [707dc0bc-fe20-4d28-8116-fc4a1c4c806d]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [326dfe26-d575-437e-9b44-01cf1f1515c3]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [fbb3c446-e5f9-4c36-82c3-b513ea99b8a6]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [dd93932c-0ab1-45de-8f09-a5c8675a3d2f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [3b9bb132-372c-4b79-b4b9-40e69151f55b]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [a0997712-a5d0-47a6-8aa9-bcd6415eb182]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [7ffed423-91e5-4c13-9f98-67646de2b095]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [2569ad9b-a3ef-4e8c-bef7-710919668da1]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [f179ab68-051f-4cf0-bba5-cb90f60e0bd1]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [7057c946-a825-408b-bdbe-4eaef96f0e7d]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:32:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [e0eb2070-fc4a-4855-916f-174c5a3ec700]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [d5af31e4-52a2-4a51-9d95-07b3676edc58]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [e6249ba6-f614-4ecf-b3d6-b22289cca947]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [cb27c2de-cd7c-4ced-991c-0c350b8a3a63]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:34:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [d8494f0e-bc8e-4033-a4d8-e612f5c4314f]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:34:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:34:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:34:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:34:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [36afab6d-68f4-42e5-a7d9-b1674e8f76c3]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [5fc02c66-bef0-4280-b009-e21b607e293f]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [88ade37f-d876-4aa4-bd5a-0ac0605ed502]
+
+Completed: 304 message:  Time response: 12 ms Request ID: [662fb843-b126-466a-8ce3-90957b25c970]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:34:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [4dcc6de7-a711-4c7f-bbcb-01323951bfd1]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:35:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [e37b1b2c-1e1a-4794-91ed-350d6c4799b3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [2ba103b3-a4cc-427f-8aac-c1c8bf46f5d1]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [a4a51bf6-9003-4621-b8f7-f78bdac31e2b]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [9ab6f697-4e0e-40a2-b564-beac5b8bfb9f]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [b56f9e6d-6d8e-44ed-ac98-fdd2a93b1329]
+
+Completed: 200 message:  Time response: 23 ms Request ID: [4fa63c66-a0eb-4fbb-aea7-ed612010ed5c]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [b0b36ee9-9b9a-40a7-8722-fca163946ef3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [6140591f-8e48-4d1d-b9fa-dcb4e69eb23c]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [14890c92-2926-40a6-8415-80206ef67bfa]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [e0144d07-46f2-49ee-97a3-c343060b0a91]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:36:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [eb4b38b4-8300-47e1-bc44-500c4e3eeb1f]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [775aaf50-97b8-4843-8215-037b88a61310]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [21b0bd79-a95f-405e-9954-9239f28c21c5]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [94f6abd7-a3bd-4f00-b984-57148c104040]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:37:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [716d3325-9c18-4f5b-aa21-c92bf7a14386]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:37:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [d1b5d125-5810-48a0-9436-dfa11de83c16]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:37:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [8e7b7693-a07b-4c35-9107-7edc6c768966]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [122d4d6f-85e7-4fcf-8d76-16a8b0d4f905]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [03ed0e2e-60ad-431a-8128-215ffd59b0b8]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [b2a3138a-37ec-4396-a3e9-726f199e9919]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [22dee591-dab4-4197-a11f-cc53037ce15d]
+
+Completed: 200 message:  Time response: 14 ms Request ID: [2f386883-f9f6-468a-944c-208482d45119]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [711dfffb-49e1-46fd-969d-8d6dbda28b37]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [cfaefde5-ee23-4570-ba82-3ce2c81d7e09]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:38:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [d6013a70-eee7-4236-905d-8f793d0098b2]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [4c677cc1-898c-4cf3-bd5e-8d4c649e1718]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [c80f6044-f399-49b3-a899-b0d201ac0357]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [647ca541-c079-4e3e-8059-3a37c26aaab0]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [9bb2ce4d-7613-454a-90d0-bf733e94f66a]
+
+Completed: 200 message:  Time response: 24 ms Request ID: [231f67e3-90b4-4c3c-8142-bc39cc047918]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [5bfefa56-672d-4a82-8e64-407f5c1794e3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [6a9ecf06-e4ce-4235-aee6-18e8a0632264]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [214c380e-783e-40f1-bfb9-d514621d2482]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [21729f12-ef61-4dbd-9ccb-94732bfd8214]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [3eb07eaa-656f-499b-b852-65d2bc0f8382]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [70d9925d-aa05-4753-af6a-9d06b4364335]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [49844094-d740-42f3-9b96-82f651d1f405]
+
+Completed: 200 message:  Time response: 19 ms Request ID: [bfb78ab0-264b-428e-99d7-c06a323c61f7]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [9f05dbdf-0460-4e27-9f0e-913784373820]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [3bd4b9ae-3973-4a51-9362-1adeef7c4eee]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:40:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [c30dc51a-8941-4f13-b32a-66a1240162a1]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [9ddd2728-c23d-4e50-b416-0afb0026a2e8]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [71c4214e-cee1-4eb4-b1ed-2d7a19b16c4d]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [79965bac-d66a-4255-b5ac-633697020156]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [f4f24668-f5cc-4133-86fc-b7279cf530fe]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [596e3adc-560c-4c1e-9da5-8a225587cd45]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [21ba895c-8922-4368-a25d-e0526dece831]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:42:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [df7d443f-6657-4552-914b-a43d55f862d8]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:42:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:42:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:42:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:42:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [bc5aac13-3bcf-4791-be64-918b330e1668]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [b22a4bba-9f8c-49a1-9891-2da2213ceefd]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [ed270da2-6650-45b3-922d-f04b7606c3c4]
+
+Completed: 200 message:  Time response: 26 ms Request ID: [2f488209-c3ad-464b-ad7b-dc83cb9797ed]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:42:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [190bdafc-8889-40d9-a1f9-013ac8fc0a1e]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [32c13b69-d86a-420f-a78a-d831311a029f]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [1cf215e6-dc2f-4bea-883b-8f2a818ce8fd]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [53203512-b186-4b9d-b771-6982ba807d72]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [c0bd2361-47c4-4e0b-a3d1-d5802811e5ab]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [047f8774-88b4-4441-850e-eb22f0fb64db]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [25cfd6f8-e0d2-4e55-9bee-121fb9dfb5e5]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 10 ms Request ID: [ed4c4cb6-db34-423e-be40-5f20d62ddc3f]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [177a9126-4f05-4c76-a93d-71e3ef2ecd7f]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [68a780e3-4252-470e-a993-07c1a4a268fa]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [5499539b-e061-426a-9aeb-0850788978bd]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [9de3477e-8bb2-45ab-82b2-1fe7323d9903]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [5ce104b9-7cad-459c-b35b-04e08d4bd4d9]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [292c8b98-9648-4622-a68e-bbe6bf9eac0c]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [ac2f53c2-dd5c-4f04-95b3-063dcdf8226f]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [da2271fd-9b39-46a4-86bd-544595ffc291]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [35f1d2c7-a5bb-4644-8ded-d18a895257bb]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [91ea608f-571b-496b-8f38-f7cb31e2046c]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [742ebbfe-7a43-4935-aa04-a2fb1c2dbcf4]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [0d3547dc-e22a-4c68-9f54-62b43c5c013b]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [40a49e3a-7aa2-4a1e-9cfd-3bd02c09c22e]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [bcb133b9-c063-44d5-81f2-e598d03991e4]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [7c7a2940-cc90-4dc0-ae49-1051c9f9f7a5]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [52f7b3b8-c8f5-4126-97b6-4eaabb25956d]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [3b590d03-d78d-4e68-b836-5eb9a05782cb]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [eb6c108a-5c34-42de-9131-eec8646b9717]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [41ede4d2-8929-4e9b-acb4-8244111106c8]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [118b41f2-c4c0-450b-b468-d22ab47b81ec]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [ef71f3fe-34ac-4f82-ac8e-00e0b6d7f76e]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [09f41524-3618-40b0-a770-867bc22828fe]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [d9ca66f0-cbf8-4391-beb7-087478bacd96]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [da7cbeda-606c-46e8-84c8-7236b1f3d6c1]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [696fb1bb-a059-47f1-a1ad-1d11235d7ef8]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [f67e3cdf-90cb-46f1-851f-f4e9dfaaefae]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [4db73fd5-acbb-48b8-8d03-c94390d199d3]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [a4952490-2e09-42c3-8d17-bd463f2e0f05]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [e7d651de-bae6-4432-af4b-ba4f18a5a09e]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [ee50d36e-eae0-4eb7-9712-47d80fc726d6]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [ba288517-0aa9-4052-9aa9-9fe6b7d993e0]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [393f851f-429d-43de-87b5-76a9f26644a6]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [56de8927-1336-4653-804e-2acb3949e99c]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [61c40ac7-a2dc-427c-b88b-81a2ef8dbd86]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [cc26d052-3430-4142-8786-c3e6035a2948]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [0528936c-e208-4ee3-b591-a914908d7f80]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [0eb937ba-2c43-4763-9c46-2f4c3f913106]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [ed88456c-f919-4514-b1d6-4f80bf557e21]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [1f42ead5-b599-48e6-acb1-c466ec973386]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [b662360d-beb2-4c25-bbd1-9b102858224e]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [4e1d833e-34bb-449f-92d3-892a0c21e526]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [043ac0e4-fc4d-4b6b-b1d4-b3e36a2f13cb]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [5abb01c6-4a9d-4d96-8846-98c69f2536c8]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [9b805157-7ac9-445e-b6ed-7c580d4a05fa]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [69856a39-9183-4fe0-b26d-3fff4178ae4a]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [ade2553b-fbaf-48f3-9311-31b29cbac06f]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [8901702d-b151-4db3-bc09-f39113d2137d]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [a874d058-5683-4bc1-b1d4-57619526a580]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [8b54edf4-38d3-40fa-86c4-11f69efb66d9]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [27266992-9be2-439e-82ca-d63e20f11005]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:47:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [f5da9c0f-2f60-4f2c-b674-87d028758f9e]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [48f90d50-eb56-43cf-b0d6-5615b107bc5a]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [d1a9dc79-d313-4444-8db4-104473381335]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [3e0c3c9c-fc9e-499d-91fc-3ddbf3ed9d5e]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [8dc8d076-7a03-4153-8831-7083206e3e37]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [a30f312f-8169-4358-ba01-0b40438ecb92]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [2f5a9f58-4809-482b-9f10-895d2d8e60f8]
+
+Completed: 200 message:  Time response: 20 ms Request ID: [6a7ec71f-8f66-40de-80ab-060db0b323f3]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [d5be183d-2d8e-4b9f-9b74-e0ee6a2d7b86]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [bf74c580-9e3f-468a-8bbd-a982df0fa222]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [585e5120-d5c0-4c1f-91cd-caee4fe61390]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [042f146c-a119-4704-80b2-1ff9b4f8fb26]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [f84ca02d-0c61-40d2-975b-e4b2a36b1ce5]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [5a1bc6c4-2fd8-403d-b3c1-c943365a3507]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [0302e126-9637-4bee-a67f-c5218f1c31b2]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [db90c2bf-1f99-4fef-aaaf-dc596ed72c06]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:48:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [db007ba4-f270-4cf8-9506-f9a6333a2c67]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [d99b6b1f-56da-4d1a-9379-507d84bbbf87]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [73d97e57-de3c-47e5-800f-0890f970a0ac]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [80c914d8-32f2-49bc-93ed-11b04c0b0053]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [c86a4d48-608e-44f8-911a-88a63ebf0b25]
+
+Completed: 200 message:  Time response: 21 ms Request ID: [4fa5ea74-4b27-4492-8f5e-57761bf89a41]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [2238913c-3561-4274-b42d-8e101cdb6ff4]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [123eefd6-bfb7-4019-b8f9-37343e82aff6]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [8105897a-66a6-47c1-a488-3d1205627801]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [89af3610-649a-4376-ae42-eeb8484a4d3a]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [154edd55-fbf8-490e-9973-3adc701854c0]
+
+Completed: 200 message:  Time response: 19 ms Request ID: [2c24870b-d83f-4924-b8e7-793bdfe90121]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [26d41e5f-2c39-4d48-a2ca-082dce71e2ed]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:51:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [d19e0fd7-7669-4c45-986c-dd5a6a1c0f17]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:51:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:51:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:51:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:51:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 15 ms Request ID: [e578f4f2-e093-4118-b345-495ddb6d8f71]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [9171a2c8-8a43-4387-8eec-8320a2c7d734]
+
+Completed: 200 message:  Time response: 21 ms Request ID: [9a425077-c27b-4076-81d1-7525b6c27c70]
+
+Completed: 200 message:  Time response: 29 ms Request ID: [fc13fe2a-79f6-4812-bd00-cf37cd5d65fb]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:51:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [61d1c3ce-5ce0-433d-af28-535b17fed938]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [ae798107-6bae-4763-84d8-65b243e106c2]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [16be21cc-bc74-4531-a20e-2bdbcf58f922]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [442efe74-13b6-41d9-81e1-d8cb805c40b6]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [70d89788-2dff-400b-a395-f5d8b2285ffd]
+
+Completed: 200 message:  Time response: 22 ms Request ID: [6faf94f6-8794-402a-a3cb-93f4d5a2db0c]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [8167cb25-01f0-4ca3-ae3b-0b6874950650]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [febd8360-1cf8-4c46-88d9-3904df08c700]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [4f457e20-21a9-4738-aaa6-3f0e38952eaf]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [375ad8c4-4cb0-4924-8280-7504e395c653]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [a0bd30ee-9bee-48d7-8d59-b5eea1aa51a1]
+
+Completed: 200 message:  Time response: 21 ms Request ID: [6fddd0a4-2a60-4d1b-a719-08a3ac426bfe]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [0d78dc60-de34-44cb-b50b-39996016174c]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [30f9781c-bc20-4aa8-b959-ece6de92ebce]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [eef6790e-4099-4463-beaf-df445bf74115]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [7e596f59-5eb4-438d-b267-51e9f6c0fbb5]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [531c6097-41e6-4dc0-8f1d-87ca77cddaca]
+
+Completed: 200 message:  Time response: 24 ms Request ID: [ddac9f67-a133-4b4e-97fa-e0703916039e]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [0352507e-9102-465e-b80f-31353997fbeb]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [d6212f54-8c2e-4ed6-ba3d-638da819ab09]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [6f78138b-a528-4cb7-a42d-45774f2607ba]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [04471a11-fdd2-4655-80b7-dd929b512b7f]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [0a4aa785-dad9-49c2-80b6-ee129cfe8f2e]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [f935a7e3-6e82-4e61-96ef-b94378b53751]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [6b90a938-9a81-4649-9e05-047f74fef8f8]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [64ea09b5-8b32-473a-a1e9-5ac1d8915448]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [b08dddc4-1b30-4d61-8c05-ce7ad81d5a2e]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [82f40008-f142-4883-89ec-ad17fc72b9a7]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [551e1672-faab-4de5-953c-b52954949a5e]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [0ab05324-3ee8-41db-9969-aad879fea54a]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [69c8491c-40ef-4ea4-8ed2-25ea6ec8978c]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [1a8eaac9-cbe2-432a-9ee1-33b52f0543ea]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [2adaa435-403a-48d6-b1f4-dfe7f11732da]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [c4382f9f-75ef-49ba-8663-92ba5f39462e]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [4c686614-d36d-45c1-9050-17c042a8a8d3]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [5de0709b-3596-4f28-8275-dc29a4b26334]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:54:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [731b5dbe-07f6-4ef5-8d98-025fe8935b3e]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [4f343a9b-9ad8-4bda-ae5c-0592eb25d82c]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [edbc00d4-ea58-41de-bad8-b1890e25442e]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [43f1febc-b1f5-47f3-b9f6-274bf42df376]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [f21581de-fd21-4dec-815c-13795382d78e]
+
+Completed: 200 message:  Time response: 26 ms Request ID: [3f0cd2c2-3f62-4a5c-9cf4-d1e5e17d02f1]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [4d504d29-314c-40d8-8d79-13c6d32aa5d6]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [f206147b-fb68-472e-a4ad-af74b248a1c4]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [2884f522-3bc6-4add-ad20-2541b4134683]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [35d1c147-7539-4de0-86f4-a926622f391b]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [363f0180-7839-4e40-b6a1-fee67560dfc3]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [e491c80e-fffe-46ed-8e69-6f053adca1f7]
+
+Completed: 200 message:  Time response: 9 ms Request ID: [5e417048-4414-4f24-aba3-63bf333c8d55]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [ffd20137-3ac3-4bbe-8b2f-8007c41d3e5b]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:56:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [a4467e46-de29-4ff2-8897-e9dd4bee9497]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:57:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [36fed0cf-d064-4582-98e8-573d3bcddd61]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:57:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:57:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:57:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:57:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [59234f70-6b82-42f9-aeb9-2ac5be04d126]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [446dce69-a83d-44b7-b0ea-4c048853933f]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [1296a16d-9734-46b4-978a-f4ffd1756ab0]
+
+Completed: 200 message:  Time response: 20 ms Request ID: [19e2a735-59e1-4a96-8f83-4baa0295177e]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:57:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [f5f08cc2-d713-4bcb-bb72-1a214bd8057b]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:58:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [58bdd7a8-3bbd-4305-b35d-59bf0c858a36]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:58:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:58:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:58:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:58:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [fce36590-7ae5-4b17-9f2f-970df03b6dcd]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [db836e10-8ffe-4a7d-b49b-d590e02e6aaf]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [cc026b36-0942-4655-99bc-c4a339944342]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [94f59422-663a-481c-98cd-15092031c5b2]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 12:58:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [81afcb73-ffa3-4c0f-8361-170b65f0b559]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:00:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [9d52b3c5-6924-4493-9c47-dbc9c2501dae]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:00:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:00:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:00:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:00:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [21a6444b-ac94-4063-9b33-d59dec39de46]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [8a4365ed-121f-4fc8-8a51-86a7f98e0f96]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [0f127c9c-c102-41f5-939b-82f4470673cd]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [69b4c7fb-fe64-41c7-a9ca-27ddd811b07a]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [39328562-7c70-47eb-a9b3-0c31e3ed3d33]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [bbe46618-a9e9-401b-8fd1-703eaf575d19]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [321ac06e-3852-41c8-ab2f-d3094885dd6b]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [a2de52fe-4e04-4eb1-97e4-1d60db533f48]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [ae08ac84-8d4a-4ada-92f9-1ddf96d396e4]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [512f5db4-72df-4b5f-ad90-ea8b733f1059]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [3260caea-7044-415a-b827-16e5c9228df5]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [edad9cfa-848f-48b6-b55e-b0d65e20f511]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [d475de69-d5f7-4703-af51-0c14bbb0c2ee]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [c295b079-3dee-4613-99b3-0e26b356ab46]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [881ab441-2c71-460a-b34d-d4a4d8731af8]
+
+Completed: 200 message:  Time response: 24 ms Request ID: [53b0ce03-7bd0-4ccc-b377-5b97aa0cd51d]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [cf66013e-5dd3-4d71-a9ea-811333b7684d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [a07b9183-6bde-41bb-8e54-4734bf8236ba]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:01:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [c6a6ee45-d7f0-498e-a3ed-2b0dfc900fa7]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [b6d1d7e3-f954-4218-a059-21ef3eeb7d4c]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [90c30c4e-6366-45b8-a8e4-071191d2cc5c]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [465a3f08-6950-4fad-9ec6-356bb13972c9]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [ea680d59-1ab8-416b-a6b0-484072c5c480]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [70d16941-9b78-4652-b2d8-de518b685681]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [a9bae1b5-448a-4449-95d0-4d2b2fa2733d]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [dbd21133-cc62-46c8-8568-094af96e2771]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:02:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [76cf989f-3ab6-4d57-8d26-dd48455af33d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [b6fc1e87-348e-46d5-852b-3be4d9361a12]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [0785cbc5-f790-43c3-81cc-8ca550e9f135]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [499051df-c782-4345-9228-832bc77f4648]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [d3547ac6-f9fa-4585-baf8-29229e38380f]
+
+Completed: 200 message:  Time response: 23 ms Request ID: [1f0d7df2-7bbd-4b66-832d-1a0c3b821b89]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [dbe36487-1866-47f5-ada5-8342f3840c32]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [7021d1e9-8b6b-4f0f-bb7c-651dfd18567e]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [c2256695-1f30-463d-80e3-1a54d8a69001]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [03c45e0a-c8d3-4b43-aa75-ddf5760ae795]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [d4708178-aeac-4aad-b03f-af46000414c6]
+
+Completed: 200 message:  Time response: 22 ms Request ID: [39188439-fcc6-48ca-a160-2f4b1eae8cec]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [caab1c88-a535-41e5-8512-38ca327032ea]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [9cc6f1a4-c077-481e-bacd-e11849490853]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:24:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [bc185508-a7f3-4920-b3a7-b6124f1f886d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [ba434382-89cd-4b3a-9c4b-4391269f7b48]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [f62d4c4b-0528-464e-ad3c-a9c1efce57b0]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [703814a9-d469-44de-859a-d9dbec085716]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [972f1253-b94d-43bb-9d07-8bbddff47d15]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [41dee572-6489-4a9c-aeb4-d0f6424ce168]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [0bcd3bf5-5e9f-4c94-a232-b651fe29274e]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [dc215565-1f09-458b-bcf1-7ec9b3b668b2]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [fb201970-8d1d-40ac-9879-57efaca7b6c4]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [5ba9469d-cb4c-48d7-9576-278172cb0060]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [ce6eff7a-65d6-4019-b60d-be8b6bc1410a]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [79968f31-65d0-4c63-90ea-162cc997dcec]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [ad94a467-7a78-4d2a-81a5-300376ad866e]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [6414b1d5-564d-4624-b496-e1df24ac799c]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [d2769137-04e3-4658-b7b5-aae8553df504]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [2106534f-5c41-42a4-bf4a-1ee4e06601f7]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [fff40865-18cc-44ff-b02d-c6e385221586]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [c86144f5-8651-4178-afa8-3a0f89568589]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [3b678e49-064a-4106-87b0-33a7f28234a8]
+
+Completed: 200 message:  Time response: 27 ms Request ID: [99018557-79df-4b4c-9288-564e120c3745]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [cc340ca4-570c-4dac-b693-99e79ca2d495]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [44b71302-bf4e-420c-8070-5544657d10bc]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 13:26:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [e6ea6ed9-797f-4526-909c-4a9cb1bb8995]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:17:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 109 ms Request ID: [520ff512-c4df-4923-a67c-3247d991b1c7]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:18:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:18:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 47 ms Request ID: [fe720d94-bf3b-4381-93e2-6f39c1adaeff]
+
+Completed: 200 message:  Time response: 37 ms Request ID: [01fe4a1a-7480-41b2-b703-417658d564d2]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 100 ms Request ID: [7bea49c6-7ccd-43eb-aa3a-cacb0cb21c21]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [8f915a90-40ca-4c15-b96a-513fa9571264]
+
+Completed: 200 message:  Time response: 40 ms Request ID: [cd0e486d-6949-4c57-8308-2bcb11f7928e]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [307b6d91-6cc3-46db-8214-bcf0735e7970]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [b8ec1ca9-cbad-4978-903a-aab39b11498d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [2f6fb36b-4941-4edf-97c5-9e7c49aa079c]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [23627995-8c7b-4a6c-8f1d-9173434d6bcd]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [ba3a187d-9fec-4553-8444-eab9049513c1]
+
+Completed: 200 message:  Time response: 5 ms Request ID: [40f92361-86ef-4cba-a6cb-f601f297e696]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [65054d6b-7292-407d-b220-302cfbd1ac86]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:19:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [bed07e06-1556-42c6-bee7-e6686d13e954]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [5fbba72a-0221-4269-aae1-883a17daf62a]
+
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [001d09b6-0e8a-4420-babb-8597a3caa7bf]
+
+Completed: 200 message:  Time response: 7 ms Request ID: [cfdae398-13d3-4a2b-9db1-4a44316c14b5]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [ab81df99-c5d6-4709-b65e-78b753d6ff29]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:20:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [55982bd4-bf0f-4313-9481-7accaad68dfe]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [c531ddda-77a5-4156-b313-74f5c9922694]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [0f1be68d-b1a4-47bf-bf44-5539624e4f7f]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [f0d2209f-ee6e-4e67-942a-7bed42c9474e]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [fe0fbea6-4fd6-45e0-9f63-66d101b11763]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [cc747e4d-5ccd-4ab7-983a-3dccc700a358]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [5c349eb2-0ddf-4e44-a415-a3ffcb0ae957]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [3ccc9fee-b197-49b1-9059-6ac9125a8fab]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [d9c1a57f-1f65-4c6e-9322-3c9996faf0d8]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [42245bf3-4d23-41ec-804d-2f4246a0e0e8]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [1eb348b1-746f-4c93-8c45-ade88db952fc]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [ec6dea41-61db-4d27-8fd4-e986c77972e6]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [c3819856-0290-4804-9ede-2ef043eab1a5]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [ccf37d16-919c-49c4-93e6-7d3181662275]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [fb36d16c-f210-4de0-ae4a-28a01f3dd0d5]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [81cd404d-a394-4650-8251-43735e71ddab]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [5529bebb-7a85-466a-ab05-3a91f49e4e56]
+
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [52514ff3-4112-4c85-80c9-88e2d986d199]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [048c5ca2-45e6-4cb0-8ae9-af0877d7a627]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [85a90e99-f1ae-49e6-ad1a-edfa5bf06144]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [58b2c5bf-7f33-4a15-9174-90563b665cd8]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [58bf2468-c42c-45f1-af97-18763bf95242]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:21:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [1c60e053-ac00-4a55-ae6c-96fb999fa97a]
+
+Completed: 200 message:  Time response: 5 ms Request ID: [532368f0-eaf5-4011-b0e6-0086f420c4d3]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [4c7b6a2c-f1bb-460f-9cff-d5b612cead6c]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [77a0a0e0-5ee1-477f-90ef-54c9ce39bf04]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:22:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [c4ada0de-99db-4ec3-99dc-5a92b0226830]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:22:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:22:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:22:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:22:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [ac4c7ef8-b388-4ff2-928c-ef26fb5220a3]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [684b27c8-cbf3-4355-8281-fc88bf61628f]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [aef93e32-bcf8-44c8-95a0-44774b2667f2]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [82291302-b347-47ad-bccf-8fcf39b5e3e2]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [5a88f466-a34d-4125-9033-a5b5fa808a5a]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [7e149ff9-0f59-40ce-8a32-b5b5d9d46908]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [bc3e4225-7cb7-4dbc-b9cd-fae40f1dbfdb]
+
+Completed: 200 message:  Time response: 14 ms Request ID: [09c023f8-8047-4e1d-a499-cd2bc147a6cf]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [1dd07d79-7b7c-4075-be5c-89e74a6c2aea]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [f1bcf780-2782-44df-b139-a0c61aabfe1b]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [3337e40c-cfb8-4922-b521-b0622619682d]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [af116f89-a7bf-40d3-96b3-ba7f47db8fe3]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [a6dcaa1c-a38d-4fd8-9e11-d94c8b2ac8e9]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [5241e1ad-d3a8-4c43-aaeb-368fd86fa34f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [883f677e-7a63-43a9-b275-f592327735f0]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:25:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [6cc686d0-83f2-4f1f-95c8-91473047c1c1]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [822c1e1d-ac0a-420e-8cd6-5bd975ac3314]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [966706b6-cea5-41bb-bcde-b18180ae793b]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [ddcb6f57-b896-4552-9cfe-e0a487147eac]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [6d218ee9-1035-44c8-b511-88f7d034797a]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [07d78361-49bc-4161-a6b6-7a258bf53ffe]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [1b70b930-97c6-43be-b522-8f5b5d935960]
+
+Completed: 200 message:  Time response: 7 ms Request ID: [c642a643-c389-4432-8281-afdd21d2f7ca]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [fd405851-e73e-4d09-a8b6-287d806e539c]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [46d7a610-b527-48de-a38b-d3315ba8a253]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [5c084602-4bbf-4f81-9fba-5de49a1e637c]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [275892c9-1ae2-4fff-8844-80b2f9e3eb5e]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [1cb42023-664c-4f7c-8903-9ab29650d36e]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [f1cb26de-7566-436e-992b-b5a1f3b01da1]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [ecc0d355-525d-4226-9418-6d4ce2102150]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:27:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [6d6dcbc6-38c2-4428-b9c3-b7d71b1c6ddc]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [1ca8d1fe-6a3f-48f3-ad93-cf7ef42d8bd3]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [2b2f46ce-da9b-4686-8dfc-9e2480919451]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [2c0970ec-ef6b-40e6-90a5-4697dee91ef4]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:28:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [c1c97257-c857-4346-be6b-ccd80e59e55c]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:28:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:28:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:28:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:28:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [81763065-fb12-4895-b287-5d9b8e9abc78]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [6cacb932-2b8a-484b-ab03-91fdac906cc4]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [85eb6c8e-d031-44e3-b34f-7fddb8be15a6]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [f29bb035-c99d-47f7-a2c1-607cb9623e54]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [727e7e6c-8894-46ce-8548-f65d31b2405d]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [7bc34b21-49bb-44da-99ab-0575927939bf]
+
+Completed: 200 message:  Time response: 6 ms Request ID: [dfb2fd48-da22-4c62-9eb5-af085b50ffeb]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [a2e8c8f8-4319-4532-9743-2d07b10edbd8]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [d3a306e5-e024-4c29-918f-d0756a1270ad]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [096c9356-b1db-4705-bfa0-076951dedee6]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [bcc9f7ef-3902-4c9f-ab78-123cef9a8e08]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [52cb0ce0-1f25-4350-844f-25d27331c16f]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [d1c7c9ed-f16a-44ad-afc5-4787ec788687]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [a6fd68c2-7fcc-40aa-8f5b-896588604a19]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [226c7078-bcab-4012-8109-418eb6c23e0d]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:29:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [4a29c976-1c9e-4a07-bb4c-97664631554f]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [5dd376cc-e492-4365-877e-e79575275531]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [e0508dc7-68ff-4c0e-8686-bc7b5105cd3b]
+
+Completed: 304 message:  Time response: 13 ms Request ID: [6e6756ae-236c-4ed9-ac4f-ba728215e76f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [4feb46c3-29f6-4cd3-92a7-4f9cdb76f3e1]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [05df12e9-e3fa-4a61-9e77-12a82c5f8db2]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [f77049a9-eeed-4dd3-a419-8293a463058c]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [cca2e2b7-7560-4396-be84-33791fc0e89c]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [97fa99d7-9be8-4c94-a330-6b50450fbfe7]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [d1949d25-1e65-43af-bbc0-9afde01f0e82]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [98e9e035-f44f-4de4-b796-2bdeaa2de0f7]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [ff9c7278-57c1-4879-a6d1-7f0c0fdd42ff]
+
+Completed: 200 message:  Time response: 7 ms Request ID: [757ebd3a-1c45-4c84-9b9d-ea3c402bb362]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [199f7cb9-a30c-4970-9f1b-94428397b34f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [ddf0513d-6108-40f7-abef-69948ef7d124]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [5a5eb99d-927a-4372-864d-aed8477e0980]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [a0fa22ad-fe96-4648-a060-300e302a016d]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [f8325802-9046-4547-9627-5f0621b26d26]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [e25bfd18-854e-4e1c-bc67-152ee48bea5b]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [71350357-d8f5-4e78-ac9e-ab1091bd50d1]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:30:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [b778138c-070d-48f6-b310-f2299b8bd37d]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [1a214b22-f1b3-4e35-bfc8-5ba35ff1a237]
+
+Completed: 200 message:  Time response: 6 ms Request ID: [9de95db8-8935-4f5a-b578-bc9b64a89883]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [78a4b039-8412-48a3-86ff-3ee8fcb1e1ec]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [594c4a6f-966e-48a3-aa41-c754b69c7f57]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [741e12d9-a565-46d5-bf49-2c0fa0f48a19]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [4506d998-a8f1-458b-b6be-71cb43f5f740]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [b75dacee-67d2-4521-a4cb-504de460e6cd]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [62e5259d-65be-4146-9459-d901b044260c]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [87acab4d-6219-4dc8-8190-f37767eea61e]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [ab4bdf60-d348-4f7a-aed9-cb83a5d422a9]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [7ba48c83-6427-4dc1-8050-b372454da0ca]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [24ea4dd8-e16e-4561-9d7c-81e82de4f8b2]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [bb7aaae0-8496-4b07-b85f-9df88d260fde]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [3ea2c683-e350-493f-8001-24666ee6c998]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:31:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [25ed2b43-8465-4f6a-b51e-3f31d5d21077]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [5e24725f-33c9-47ca-aa3b-bb8707d7afe9]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [7c02406e-00c3-4f1c-868d-07419e0b57b4]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [6b80af0c-55f7-4fd4-b8b7-015a4693e1ec]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:32:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [63aaa5e5-00b1-4fa6-b16f-a7128681f198]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:32:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:32:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:32:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:32:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [3bad8b8f-22a6-4488-a96b-68a4611c8faf]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [78660cdc-493b-41b8-93c2-7e1fc5f26da5]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [c3cbf596-3919-4a8c-8679-fc2de287c0fd]
+
+Completed: 304 message:  Time response: 12 ms Request ID: [f739e25f-46da-4921-8f14-6a036510f4e7]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:33:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [4f4fc41f-76ce-420d-be56-5b49c28092d9]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:33:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:33:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:33:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:33:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [a11ed24e-1f8e-4f36-a40b-7e4dc409c407]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [c831b3c6-7cd7-4fa8-a440-ecf0ba4f7d47]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [fbfa0e66-1601-496d-85ba-86eb7f7c7218]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [03d274d8-84ec-4e4e-b337-aaf850cffc45]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [fb7dd931-ec50-446e-a70f-f682d57df9a4]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [d98c5021-af50-4674-b229-fcef0a64fc10]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [e0b9a03b-aa97-4fc5-ad8c-939ad3912807]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [b4487f6f-21d2-4a30-847b-c37d3c309a07]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [898ca7f9-ae86-4c8d-8e95-ce2807c2abea]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [4c8e7e5a-fc6c-49af-b366-2e5f07fc5767]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [9f5ebbe3-d812-4053-8e78-4d1b350198f8]
+
+Completed: 200 message:  Time response: 5 ms Request ID: [7f2b3628-4b75-479c-9771-793bac1ae423]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [12b96ba4-4436-4311-800c-9c6fd4dfe7af]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [7a84c364-3f46-4362-9558-a6409a3d946f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [f44fa8be-03d0-4f9e-94b0-608249037655]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:35:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [97626425-f4c3-44bc-936a-e100cc3ff6f2]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [3ef4772c-8f2e-4461-b332-f63718f026b9]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [6eb06db2-5be6-4af7-9778-a56ceafd668f]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [1e20b24c-21c6-4a53-ae4f-8d755aaee95a]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:36:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [4dd44ed6-2060-4c4d-9b5c-fadac8fccbc9]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:36:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:36:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:36:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:36:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [36bc41ca-a675-42b5-8038-3d3d2010a56b]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [16c89ceb-560b-4b3b-b843-11d1bea634fe]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [513ff9d0-e5e2-4d50-8646-dab5f87b5d30]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [a4154524-8a6e-48d3-a55b-fb6f5f63e190]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:37:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [7442e3dd-f856-4d00-8ac4-bbd8e50d47f6]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:37:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:37:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:37:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:37:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 10 ms Request ID: [a45b3010-a54c-4fb6-964f-b20e9c2888b1]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [69278667-ab44-478d-b831-5de13ca21896]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [7a639ffd-d7c8-4bc4-b803-faa273daf728]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [8bd8e88c-3de4-45d2-878a-4ff04eeac473]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [6b957a64-e9df-4892-ad5c-883a9ca47bd7]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [992d559b-6113-4a01-b661-8579f7399d99]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [ba4e9c37-7912-4040-8535-a4f2c42e77db]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:39:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [fa56a171-3eea-43d4-a61c-b88336c4a539]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [39b9778c-3607-403d-9123-42a52f2e3bf0]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [4da49f3f-dcbe-494e-ae3b-1ad2e218fb34]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [83241007-1938-47cd-b030-5689622e133b]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:44:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [223f6f5c-2b34-427f-a811-90d56c3f99a9]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:44:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:44:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:44:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [1f938a49-942b-4eab-b4ec-4352f6338a77]
+
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:44:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [28bdae5d-3f3d-41b7-a0dc-bd570bb35bb7]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [790e3f51-7f07-49de-8988-cd5aadff2207]
+
+Completed: 200 message:  Time response: 7 ms Request ID: [71bd8d9e-4b17-4f68-b7c9-683880d4c510]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [4986eff0-0fcb-4041-a252-75c0d90fa800]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [3e385523-c504-4ebc-8dd5-295df3aedb5d]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [cb159db0-f426-46eb-a629-f5d6844e590f]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [010b2759-0587-4062-8f3f-4c8d546ae490]
+
+Completed: 304 message:  Time response: 13 ms Request ID: [2023163b-e806-43c3-891a-43a41e14a014]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [aa5bd147-b794-4a52-b9ce-247e7c6f28dc]
+
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:56:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [a4986d77-255a-4590-a8e2-f717c26928a8]
+
+Completed: 200 message:  Time response: 30 ms Request ID: [7d14fb70-0d99-4c3d-b1a5-6c186a7895c5]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [f0cb863f-8537-4c46-8fae-92805bca0c86]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [a71d2cb1-0df6-4cb0-8159-1003adb3edb9]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [cd4f974c-2ba9-458a-bb4a-e0f7adbd6d49]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [b7dc017c-25e0-4c84-b541-c613a41fe514]
+
+Completed: 200 message:  Time response: 26 ms Request ID: [90d0f7e9-508a-451b-b399-d623059ee242]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [d05172b9-5ea4-4e3a-b4b3-36dae6962a12]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:57:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [c026e368-99ad-4e46-bb60-2ec3180ac549]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [198242b3-4aab-41a1-96fc-7f8e83b17f66]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [fcbf8773-6d84-4d3c-b1cf-df97732874f2]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [2f8a62b1-e0c3-4dc8-925d-3e96535b2c48]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [81c269f4-3bdc-470b-9ab0-d050f6f1ecd3]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [9d98cbe0-7849-4843-9001-aaa876660d69]
+
+Completed: 200 message:  Time response: 21 ms Request ID: [4b0c97ca-1d57-4881-9247-f091523435b2]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [01842e73-7700-49df-aa95-6cdd568695a9]
+
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 15:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [79a76e0c-e172-4cdb-8972-ad29e9f70aae]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [1bbddd4a-d9bb-4e5a-b3cf-1bccb485604f]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 7 ms Request ID: [5b236f74-fb0a-41bf-a178-061f0b1fa140]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 99 ms Request ID: [e8e551d4-ed5a-4694-ab07-d060be4bf3b0]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [f4284d26-2736-4fa2-89bf-b1356e0b33d4]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [d3a57140-4ca6-4679-9808-fbc812fa161d]
+
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [5e294b16-f20f-4300-a1c8-457fd3e2ee7c]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [ecdf4289-7145-4d06-8c02-8ca67850a4a6]
+
+Completed: 200 message:  Time response: 21 ms Request ID: [5b736703-0a3f-4556-b32f-5fc34f129933]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [aa4f4666-5d15-405e-849d-4642ba34a49e]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [c1b61811-cdf2-4163-b4a4-52f0e25c677c]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [dde688d1-934e-4ea8-b630-1f9673d9a1cd]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [714a2cd6-57fe-4981-8f5e-9cd9d8801ca4]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [32147c87-09fa-4064-a2d9-7eb0c180be6e]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [587f9c7c-e800-4748-aff0-2369c1f8c34a]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [a8a2e1da-0685-432d-ace8-8f0ff1db627d]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [4c50820a-4244-4e9b-a7dc-70b4649e659c]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [6448d558-5a8e-496f-9d92-2ccad782b174]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:04:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [b6c427e1-4749-4a0b-b363-5fc342525a10]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [614c37fd-a50d-4c3a-b231-6b44322ac2a3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [0bc26b11-018d-45ef-9df5-48c3c5a97c10]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [0ef3ffed-30f7-4cf5-a2fc-dc44afbe34d7]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [aa66dd0e-6ff0-42f5-b8c6-b2c05fb6d454]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [5d386c67-7614-44d3-9698-63d952782930]
+
+Completed: 200 message:  Time response: 29 ms Request ID: [ffdd25b6-fd55-4883-a8e0-301299df03c4]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [03f40927-41f2-47ac-961f-1193950408f6]
+
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:06:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [ab6f9c41-592f-4926-8a55-22983f58585b]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [6933ab1d-dc23-4b8e-9c89-6f9dfe7bfa4a]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:09:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [d298e9ff-9cc5-48b3-8cd3-826938aa2f30]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:09:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:09:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:09:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:09:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [da685e88-1127-4a63-abf7-1c0f65e28dcd]
+
+Completed: 200 message:  Time response: 14 ms Request ID: [37a6228e-6810-401b-9354-7daae8da8b6c]
+
+Completed: 200 message:  Time response: 14 ms Request ID: [5bfd8c56-50c2-4e02-86da-03d81ceac150]
+
+Completed: 200 message:  Time response: 21 ms Request ID: [46808055-243e-4c8f-8716-c729f7765734]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:09:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [5c6e91ab-11cd-4ee0-8ca5-e045c715fba3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [054c3be7-10ec-4f4d-9187-b6ce6cf780c3]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [3804900d-4de9-4e76-9e23-dd272d3b93c2]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [a7c22e38-6498-446e-a62e-df1fd208156b]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [cb5448bc-e26f-460d-b84f-832c9b349ff3]
+
+Completed: 200 message:  Time response: 26 ms Request ID: [e3791f41-2895-49ca-be2e-d2b5f8c05117]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [6633b159-d6cb-45e5-8bbf-146ab2b4d267]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [b01490c3-4160-4a49-86b8-f31d8c8b3f9f]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [3b50cb45-a0e0-46eb-aec1-50d869bfb1b1]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [98e2741e-6e96-4bae-94c8-793a922f12c3]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [780c80cd-e4ad-4104-a8f2-3a00c4d64ceb]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [595f0347-82ff-4f53-9328-44391a914222]
+
+Completed: 200 message:  Time response: 11 ms Request ID: [abdd657a-411b-4481-b071-19c4c20e8a76]
+
+Completed: 200 message:  Time response: 10 ms Request ID: [eabff030-6dd2-4429-adf2-0d1cb133915b]
+
+Completed: 200 message:  Time response: 17 ms Request ID: [cc3a5339-c1a5-4af6-9129-8a502a7873ca]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [b09d8449-ceea-4067-bf54-b37d7fa5ee48]
+
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [9d1019c1-65ce-4664-b682-3cd931e18eb7]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [f4b05135-a4e5-47d0-b490-a5d295ad5d6c]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [6bcf9bd4-f999-44ec-bdbf-3637da7aac64]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [bff990f9-63c7-4976-9377-959137a50b0c]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [0229b39e-b2c6-40ac-bfd0-2dc6f8da0811]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [a9be47b2-3873-4dfa-94ba-fe0560bd5695]
+
+Completed: 200 message:  Time response: 19 ms Request ID: [0b6ef24f-3e48-492c-ae42-44f21076c8fd]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [a14bf25b-3516-4586-908a-8e5dd15f2f41]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [f0fa403a-4ea4-4dfa-8451-f07af2820792]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 98 ms Request ID: [f9cc3be6-dcec-4062-8a82-6f5195a07a5e]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:10:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [cffb4172-da55-4fad-95ea-ac8e9bf4b224]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [a6b1e7d9-7708-44d7-ad5e-f07acbc5f8f6]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [0038c525-5680-482e-981f-7c05f6f12b04]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [4ae6f268-8175-4b81-a0b9-350ee3fc5b21]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [e5ae0f7f-f202-4ae6-84f2-084a8f494ecf]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [0b885eec-4865-48d7-beba-93144106d8a1]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [6827d9f5-7273-4ca5-969f-5f89e4cc685c]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [230b369f-02ad-4679-bab5-58ba223743b2]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [d117a6d1-3173-4b4a-a8f0-fcc0a5f3b086]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [e2ef2ace-1a14-49ab-9606-cd56acdc5059]
+
+Started GET /docs for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 301 message:  Time response: 3 ms Request ID: [4cdb1d5c-ad2c-4418-8380-f68cf64e89d8]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [9a34320a-377a-460f-ae06-2808a7ace8ca]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [9646a3de-e043-4244-a440-cf411f3b2ced]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [1989bc87-838d-4980-9826-6337bb3f8164]
+
+Completed: 200 message:  Time response: 14 ms Request ID: [a363308c-0e67-41dc-8956-e5d227d88106]
+
+Completed: 200 message:  Time response: 23 ms Request ID: [f4ec18a0-5b85-4ac7-9c1e-f93d1627a887]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:23:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [b37505a0-4f9a-4c60-8078-3c36c26dff92]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:24:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [eecf03aa-69d3-4ee0-b6d3-4ac66d726e93]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:24:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 101 ms Request ID: [f64d6046-14f5-4a78-a7d0-035abedb4ff6]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:24:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:24:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:24:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [c0c42fe6-e0e7-4a32-9b92-7ae61aeec96c]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [c2f50b7a-a3c8-4bfa-ac48-54e24ea3dec3]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [dde213df-1e9c-40b4-9e4b-32a2d86ed648]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [21ba947f-5e0c-43a7-9915-f286b8793b59]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [de076382-3964-4c2d-bb13-70f8b3631829]
+
+Completed: 200 message:  Time response: 12 ms Request ID: [850ba684-fcb2-4640-862e-72ef62da0422]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [ea33aca1-f5a0-4f3d-b5ce-42b8f75ff6ba]
+
+Completed: 200 message:  Time response: 23 ms Request ID: [a129309c-7ce7-423d-8a7a-7c89e60f0d1f]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [21765031-d819-4437-b4cf-9f14ad4693c8]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [674e6ce1-a7a2-4c23-a04d-223932d9e340]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [4e4682bb-a212-4915-8728-40265daf5a2f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [6f91559b-906e-4f2e-b5f4-ca95824b3607]
+
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [9f44926e-8640-431d-af21-d073978ef19a]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [f427c7e1-a86b-4ee4-9572-7a835d53297f]
+
+Completed: 304 message:  Time response: 12 ms Request ID: [5c3c6a7c-6223-403f-b8f9-522f5dcd4fb3]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [e079d3ae-527f-4705-b21c-93a2e2c08e07]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [97142347-ca31-4aad-9615-b1163ba9b9c4]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 94 ms Request ID: [e59d3ce0-53cb-4a19-beb0-49d062f86f42]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [a948bb50-2a15-4cad-ab32-5dfef3262766]
+
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:26:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [1c22091f-882f-47bc-83db-a7243f51e6b1]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [1338b2e3-96cf-4238-9339-8b3b8e1cf661]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [12fbcece-25f4-4ed7-b632-c4e499bd956c]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [3a5aeda1-e05e-42b1-bf58-a3242d32e4c9]
+
+Completed: 200 message:  Time response: 14 ms Request ID: [c9670532-c0f1-4e14-8618-c777e2a7143b]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [570bffde-c674-45b3-a129-b02aae319968]
+
+Completed: 304 message:  Time response: 12 ms Request ID: [ddf2200a-f392-4f66-aeb0-2e9ef41be12e]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:29:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [ad1fd83a-7cfa-47e6-818f-46a7a153deec]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [5d89783f-a3b1-4629-bff7-3a0c70307996]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [7c4272a2-f3af-4fdc-91f7-677e7174b1a2]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [604bff8a-13c9-4633-8524-e0b28de21411]
+
+Completed: 200 message:  Time response: 6 ms Request ID: [a192abe6-abc6-4236-992f-3e8877629f98]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [53235899-7dc2-4b79-bb19-49d3f36706ea]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [5c14cce8-5f61-4e1a-8de7-8f073071b676]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:30:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:36:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [63ed784d-6935-4d4f-bd23-182bdc4ccceb]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:36:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:36:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:36:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:36:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [112435e3-70cf-421c-b9b5-e0346eeefb2f]
+
+Completed: 200 message:  Time response: 7 ms Request ID: [9c148f70-792e-4b40-93cb-2819db860bfa]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [d674e46d-fe89-4465-9ee7-b8dca465ab5a]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [c7d13373-ccdf-462a-ae37-d0756e6b3c82]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [50de00d2-0eb3-496a-986d-bfe1ad7706bc]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [de7c1e9c-bde8-4496-b263-c384c9e22fb6]
+
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [fd69a7ae-5b29-47af-a30f-0583e4b75c28]
+
+Completed: 200 message:  Time response: 5 ms Request ID: [e612ca81-55de-4b6e-bb7b-11de517c43b4]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [674d695d-39b9-429d-a5c1-eb84e031a25e]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [7821de27-46fa-47dd-b3ef-ae6ccb0599d6]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [b1037ff6-14c8-4368-b9d4-48532b90c087]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [917de291-7eb4-453c-9d68-39616ab675c7]
+
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [d33ccd8f-3c15-41f2-94da-3ff742d00b42]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [23c9aafb-5b2c-411c-8871-0bbb0eb21dd0]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [f41e95ca-58bd-430b-ba9b-d1530384481d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [48023845-e3b1-4d5f-9aae-df4305f3af44]
+
+Started GET /docs/react_devtools_backend_compact.js.map for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [b8ede565-9022-474c-9608-3df155eab99d]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [1109c5f9-4c79-43d8-b53a-e635c7b780d8]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [de35bf77-3ab0-4196-8cc0-c00fc2287da2]
+
+Completed: 200 message:  Time response: 13 ms Request ID: [42579b9f-b5fd-4026-88a5-36d91f47fb53]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [27005b44-2338-498c-9e1d-213732d6d282]
+
+Completed: 200 message:  Time response: 22 ms Request ID: [c73a425d-d14b-46cc-a7aa-7979b4e6ddca]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:37:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [d9bc86b3-1750-4a0e-95a8-bac9e19730be]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:41:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [389c5ef1-596e-4e09-b2c6-7d27b6dc30ba]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:41:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:41:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:41:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [98a07ec8-bd82-4ed3-828e-5410ebda36f2]
+
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:41:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [5c082382-736d-4df2-9ac6-7bbd427510fb]
+
+Completed: 304 message:  Time response: 6 ms Request ID: [822f9f8c-4083-4b95-871a-b68d876e4297]
+
+Completed: 200 message:  Time response: 6 ms Request ID: [0781341b-3497-486f-8052-02c5cff2aece]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:41:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"aaaa@a.cl","password":"123"}
+Completed: 401 message:  Time response: 49 ms Request ID: [d7e4439d-d6c5-47b6-9e7c-20a6fbf20dd9]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:47:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"aaaa@a.cl","password":"123"}
+Completed: 401 message:  Time response: 46 ms Request ID: [68667959-c999-49d4-a5a4-0e811331b187]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:48:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123a456"}
+Completed: 401 message:  Time response: 84 ms Request ID: [eebdff6c-572a-48c2-9d9f-f5505f97b7d5]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 7 ms Request ID: [c26731d9-dc12-466c-958f-a4046ed845ff]
+
+Started GET /favicon.ico for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 2 ms Request ID: [06eaf00c-c2de-46ea-af3d-2f88d628189f]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [37c1d9b1-deb7-4ccb-82a3-e8b263a5bc90]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [175c3619-a842-478d-937b-7a8c280b3fde]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [d8196fb1-3ec4-42aa-a3ec-2976c4d7ec14]
+
+Completed: 200 message:  Time response: 18 ms Request ID: [84c25f2e-976f-4f44-ba2f-902c6aad9e17]
+
+Completed: 200 message:  Time response: 19 ms Request ID: [10ce2abd-949c-4abe-87ea-5d4bf3cdd0bd]
+
+Started GET /docs/favicon-32x32.png for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 10 ms Request ID: [90bc9bb2-3729-41aa-bf2e-0d280f8e9c21]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:49:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [6fd37b29-91db-42f2-89a9-7faa5acd2925]
+
+Completed: 200 message:  Time response: 8 ms Request ID: [30345a06-4631-481e-bec1-c7972c4327aa]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [6da9b769-644b-43bc-9e7e-ff9d7d5f1e70]
+
+Completed: 304 message:  Time response: 11 ms Request ID: [fa6c331c-bb8c-4b6a-8bf2-db8ccfefe5b7]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:50:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 7 ms Request ID: [13366298-f711-4fa9-81ab-1e66744514f2]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:50:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"abu123@a.cl","password":"123456"}
+Completed: 200 message:  Time response: 95 ms Request ID: [77656bdb-4617-4a21-9d11-a5fe11dea098]
+
+Started GET /docs/ for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:51:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [7646f605-8fc0-4e8f-979f-e90727061a68]
+
+Started GET /docs/swagger-ui.css for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:51:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-bundle.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:51:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-standalone-preset.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:51:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /docs/swagger-ui-init.js for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:51:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [b0ca1ede-7c2d-42e2-a8e1-31f25cb594bb]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [0ae1810a-3d94-441f-b940-352d478316da]
+
+Completed: 304 message:  Time response: 7 ms Request ID: [e3b80c08-6f2f-46ed-90b0-67bc3430fa2e]
+
+Completed: 304 message:  Time response: 10 ms Request ID: [829946a8-1d17-4988-bc31-2d6fddda3e7f]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [8fa1962c-d520-42f4-a0e7-37f3c95f4ba4]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 40 ms Request ID: [f46c8bed-9829-463e-bf63-a7058bd768a8]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 15 ms Request ID: [49fb0e60-cbc5-434e-8f20-91c69c1a8810]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [35745e19-f71d-4fc4-afad-3774beca5d4a]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [0c656590-436f-486a-880e-8ba15fb75be5]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [1a498be9-2bda-4218-bc11-61ff02103bf9]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 24 2024 16:53:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [ce9bb1fc-82e5-4b81-a7ae-dcd3c82c645a]

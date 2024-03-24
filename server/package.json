@@ -20,6 +20,8 @@
     "@types/node": "^20.11.17",
     "@types/pg": "^8.11.0",
     "@types/pg-format": "^1.0.5",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.6",
     "typescript": "^5.3.3"
   },
   "dependencies": {
@@ -32,6 +34,9 @@
     "jwt-decode": "^4.0.0",
     "logger-express": "^1.1.0",
     "pg": "^8.11.3",
-    "pg-format": "^1.0.4"
+    "pg-format": "^1.0.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
   }
 }
+

@@ -8,6 +8,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 import * as userModel from "../models/user.model.js";
+import { createNewError } from "../helpers/error.js";
 const getAll = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const users = yield userModel.getAll();
@@ -19,14 +20,18 @@ const getAll = (req, res, next) => __awaiter(void 0, void 0, void 0, function* (
         next(error);
     }
 });
-const getOne = (req, res, next) => {
+const getOne = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const { id } = req.params;
+        if (!id)
+            throw createNewError("", 404, "You must provide an id");
+        const user = yield userModel.getOneBy("id", id);
+        res.status(200).json({ User: user });
     }
     catch (error) {
         next(error);
     }
-};
+});
 const create = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const user = req.body;
